@@ -1,11 +1,4 @@
 h1,
-h2,
-h3,
-h4 {
-  font-family: Verdana;
-}
-
-h1,
 h2 {
   color: White;
 }
@@ -30,6 +23,7 @@ h5 {
 * {
   background-color: Black;
   text-align: center;
+  font-family: Verdana;
 }
 
 
